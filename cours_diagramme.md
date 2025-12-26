@@ -155,7 +155,7 @@ I ..|> J
 
 ![alt text](image-14.png)
 
-**Assoication N-Ari**:
+**Association N-Air**:
 ![alt text](image-15.png)
 
 **Classe Association**:
