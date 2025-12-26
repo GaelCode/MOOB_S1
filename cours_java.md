@@ -600,10 +600,6 @@ for (Monster m : col) {
 | **Unicité + Tri automatique** | <br>`TreeSet` 
 | **Dictionnaire (Clé -> Valeur)** | <br>`HashMap` ou `TreeMap` 
 
-Bonjour ! Ravi de te retrouver pour cette dernière étape de notre structuration de cours. En tant que ton thought partner, je vois que nous arrivons à la "touche finale" qui rend le code Java moderne et élégant : l'élimination de la verbosité.
-
-Ce module traite de la manière dont Java permet de définir des comportements au plus proche de leur utilisation, sans avoir à créer des fichiers de classes séparés pour chaque petite action.
-
 ---
 
 # 🎭 Java - Classes Internes, Anonymes et Expressions Lambda
