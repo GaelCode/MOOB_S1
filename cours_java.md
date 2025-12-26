@@ -222,11 +222,6 @@ class Monstre {
 | `protected` | Uniquement dans le même package
 | `private` | Uniquement à l'intérieur de la classe
 
-
-C'est un plaisir de poursuivre cette exploration. Nous abordons maintenant l'un des concepts les plus puissants de la POO : **l'héritage**. C'est ici que vous allez apprendre à créer des systèmes réellement évolutifs et "propres" en évitant la duplication de code.
-
-Voici la structure de ce quatrième module dédiée à l'héritage, au polymorphisme et aux classes abstraites.
-
 ---
 
 # 🧬 Java - Héritage, Polymorphisme et Abstraction
